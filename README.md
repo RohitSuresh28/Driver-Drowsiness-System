@@ -9,4 +9,4 @@ Implementation:
 
 3.Model Training- The YOLOv5 model was trained on the labeled dataset to detect signs of drowsiness in real-time video streams.
 
-4.Deployment- The trained model can be deployed in vehicles or integrated with existing safety systems to provide timely alerts to drivers when signs of drowsiness are
+4.Deployment- The trained model can be deployed in vehicles or integrated with existing safety systems to provide timely alerts to drivers when signs of drowsiness are detected.
