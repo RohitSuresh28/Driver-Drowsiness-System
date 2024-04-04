@@ -1,0 +1,5 @@
+path: /Users/rohitsuresh/yolov5/yolov5/yolov5/data
+train: /Users/rohitsuresh/yolov5/yolov5/yolov5/data/images
+val: /Users/rohitsuresh/yolov5/yolov5/yolov5/data/images
+nc: 2
+names: ['awake','drowsy']
